@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Janitha-Tharaka
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Laravel and React JS.
+- 💞️ I’m looking to collaborate on Laravel and React projects. 
+- 📫 How to reach me? Just email me! tharakagunawardhana110@gmail.com
