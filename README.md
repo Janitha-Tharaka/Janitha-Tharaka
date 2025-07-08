@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Janitha-Tharaka
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Laravel and React JS.
-- 💞️ I’m looking to collaborate on Laravel and React projects. 
-- 📫 How to reach me? Just email me! tharakagunawardhana110@gmail.com
+- 👋 Hi, I’m @Janitha-Tharaka (Tharaka Gunawardhana)  
+- 🧠 I'm a Full Stack Developer with 4+ years of experience in PHP (Laravel), MySQL, and API integrations.  
+- 🚀 Currently transitioning into Python and AI/ML development — exploring NLP, LLMs, and automation.  
+- 🌱 Learning fast: working with Python, Selenium, BeautifulSoup, and integrating AI tools with real-world apps.  
+- 🛠️ Built hybrid systems using Laravel, WordPress, and even a Python-powered plugin for delivery cost estimation.  
+- 🤝 Open to collaborating on Full Stack or AI-related projects (Laravel, React, Python, NLP).  
+- 📫 Reach me at: tharakagunawardhana110@gmail.com  
